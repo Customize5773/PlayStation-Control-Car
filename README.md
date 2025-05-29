@@ -42,7 +42,8 @@ graph LR
 ### 2. Wiring Setup
 Connect components as specified in [Pin Mapping](schematics/pin_mapping.md):
 
-![Wiring Diagram](schematics/schematic_wiring.png)
+![Wiring Diagram](schematics/Schematic_Wiring.png)
+
 
 ### 3. Software Installation
 
