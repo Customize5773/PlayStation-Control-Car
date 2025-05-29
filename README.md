@@ -1,5 +1,7 @@
 # Arduino Tank Robot with PS2 Controller
 
+![Tank-Robot-PS2-Controller]()
+
 A beginner-friendly robotics project featuring a wireless-controlled tank robot using Arduino Uno and PlayStation 2 controller. This responsive robot moves forward, backward, and pivots using analog stick control with deadzone handling for precision movement. Perfect for learning hardware-software integration in robotics!
 
 ## Features
