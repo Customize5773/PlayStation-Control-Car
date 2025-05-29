@@ -123,18 +123,6 @@ Common issues and solutions:
 
 > **Full troubleshooting guide**: [troubleshooting.md](docs/troubleshooting.md)
 
-## Contributing
-
-We welcome contributions! Here's how:
-
-1. 🍴 Fork the project
-2. 🌿 Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. ✅ Commit your changes (`git commit -m 'Add amazing feature'`)
-4. 🔀 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🔓 Open a pull request
-
-See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for detailed guidelines.
-
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
