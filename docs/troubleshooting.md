@@ -7,13 +7,17 @@
 - Buttons not registering
 
 ### Solutions:
+
 ```mermaid
 graph TD
     A[Controller Issues] --> B[Check PS2 receiver wiring]
-    B --> C[Verify 3.3V power (not 5V!)]
-    C --> D[Confirm pin mapping CLK=13, CMD=11, ATT=10, DAT=12]
+    B --> C[Verify 3.3V power]
+    C --> C1["(not 5V!)"]
+    C --> D[Confirm pin mapping]
+    D -->|Pins| D1["CLK=13, CMD=11<br>ATT=10, DAT=12"]
     D --> E[Reset Arduino after connection]
-    E --> F[Re-pair controller - Press PS button]
+    E --> F[Re-pair controller]
+    F -->|Action| F1["Press PS button"]
 ```
 
 - **Error Code Reference**:
