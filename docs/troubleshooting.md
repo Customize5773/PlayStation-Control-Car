@@ -158,7 +158,7 @@ void setMotorSpeed(int left, int right) {
 ## ❓ Still Stuck?
 1. Take high-resolution photos of your wiring
 2. Record serial monitor output
-3. Open issue on [GitHub repo](https://github.com/yourusername/project-repo)
+3. Open issue on [GitHub repo](https://github.com/Customize5773/PlayStation-Control-Car/issues))
    - Include Arduino model
    - Controller type (DualShock 2/Other)
    - Battery specifications
