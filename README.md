@@ -4,6 +4,8 @@
 
 A beginner-friendly robotics project featuring a wireless-controlled tank robot using Arduino Uno and PlayStation 2 controller. This responsive robot moves forward, backward, and pivots using analog stick control with deadzone handling for precision movement. Perfect for learning hardware-software integration in robotics!
 
+> Copyright: https://www.instructables.com/Arduino-Robot-With-PS2-Controller-PlayStation-2-Jo/
+
 ## Features
 
 - 🎮 **Wireless PS2 Control**: Responsive analog stick control with D-pad fallback
